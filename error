@@ -41,3 +41,7 @@
 线程 0x2c10 已退出，返回值为 2 (0x2)。
 线程 0xfd8 已退出，返回值为 2 (0x2)。
 程序“[5920] ConsoleApplication2.exe”已退出，返回值为 1 (0x1)。
+
+线程 0x23c4 已退出，返回值为 0 (0x0)。
+0x00007FF8EA844859 处(位于 ConsoleApplication2.exe 中)引发的异常: Microsoft C++ 异常: std::bad_alloc，位于内存位置 0x000000D6094FF470 处。
+0x00007FF8EA844859 处(位于 ConsoleApplication2.exe 中)有未经处理的异常: Microsoft C++ 异常: std::bad_alloc，位于内存位置 0x000000D6094FF470 处。
