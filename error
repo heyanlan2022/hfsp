@@ -6,3 +6,38 @@
 
 1>C:\OpenSceneGraph\include\osg\GL(114,10): fatal error C1083: 无法打开包括文件: “GL/gl.h”: No such file or directory
 1>已完成生成项目“ConsoleApplication2.vcxproj”的操作 - 失败。
+
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Users\hyl\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe”。已加载符号。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\OpenSceneGraph\bin\osg.dll”。模块已生成，不包含符号。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\ucrtbase.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\OpenSceneGraph\bin\osgDB.dll”。模块已生成，不包含符号。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\msvcp140d.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1d.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\OpenSceneGraph\bin\OpenThreads.dll”。模块已生成，不包含符号。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\opengl32.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\advapi32.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\sechost.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\user32.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\win32u.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\gdi32.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\gdi32full.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\msvcp_win.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\msvcp140.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\OpenSceneGraph\bin\osgUtil.dll”。模块已生成，不包含符号。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\OpenSceneGraph\bin\zlib.dll”。模块已生成，不包含符号。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\glu32.dll”。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\imm32.dll”。
+线程 0x3868 已退出，返回值为 0 (0x0)。
+“ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。
+线程 0x2c10 已退出，返回值为 2 (0x2)。
+线程 0xfd8 已退出，返回值为 2 (0x2)。
+程序“[5920] ConsoleApplication2.exe”已退出，返回值为 2 (0x2)。
