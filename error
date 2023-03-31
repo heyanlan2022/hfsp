@@ -40,4 +40,4 @@
 “ConsoleApplication2.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。
 线程 0x2c10 已退出，返回值为 2 (0x2)。
 线程 0xfd8 已退出，返回值为 2 (0x2)。
-程序“[5920] ConsoleApplication2.exe”已退出，返回值为 2 (0x2)。
+程序“[5920] ConsoleApplication2.exe”已退出，返回值为 1 (0x2)。
